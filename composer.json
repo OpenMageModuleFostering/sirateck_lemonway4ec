@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Sirateck_Lemonway4ec",
+    "type": "magento-module",
+    "license": "http://opensource.org/licenses/mit-license.php-MIT-licence",
+    "homepage": "",
+    "description": "A 1 minute integration for the cheapest payment solution in Europe.Accept payment by credit cards from all around the world.",
+    "authors": [
+    {
+        "name": "Thomas Roche",
+        "email": "troche@lemonway.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
